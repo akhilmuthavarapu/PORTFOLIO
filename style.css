@@ -443,7 +443,7 @@ nav{
   box-shadow: 0 0 15px cyan;
   max-width:500px;
   margin-left: 10px;
-  width:300px;
+  width:50px;
   height:400px;
   
   transition: transform 0.3s ease, box-shadow 0.3s ease;
