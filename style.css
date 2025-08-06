@@ -446,6 +446,7 @@ nav{
   box-shadow: 0 0 15px cyan;
   min-width: 100px;
   margin-left: 10px;
+  width:300px;
   height:200px;
   
   transition: transform 0.3s ease, box-shadow 0.3s ease;
